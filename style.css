@@ -1,0 +1,10 @@
+#status {
+    position: absolute; /* 位置を絶対的に設定 */
+    top: 10px;          /* 上からの位置 */
+    left: 10px;         /* 左からの位置 */
+    z-index: 1000;      /* z-indexを設定して前面に配置 */
+    background-color: rgba(0, 0, 0, 0.5); /* 背景色を半透明にする */
+    color: white;       /* テキスト色を白に */
+    padding: 10px;      /* パディングを追加 */
+    border-radius: 5px; /* 角を丸める */
+  }
