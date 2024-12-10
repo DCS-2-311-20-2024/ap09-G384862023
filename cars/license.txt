@@ -1,7 +1,7 @@
 Model Information:
 * title:	4 Low Poly Toon City Cars
-* source:	https://sketchfab.com/3d-models/koenigsegg-jesko-e2071ee5ae7a41509b7edbeac9adf007
-* author:	Viktor Tselikov (https://sketchfab.com/JUSTGAME)
+* source:	https://sketchfab.com/3d-models/4-low-poly-toon-city-cars-cdce7c9c2a17473cadd03ce4746b4f13
+* author:	Viktor Tselikov (https://sketchfab.com/tselikov.viktor)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
